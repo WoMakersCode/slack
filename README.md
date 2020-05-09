@@ -1,4 +1,4 @@
-### Slack WoMakersCode
+# 🚀Slack WoMakersCode
 
 Seja bem vinda à nossa comunidade, a maior motivação da nossa existência é capacitar mulheres e promover a diversidade no mercado de tecnologia.
 
